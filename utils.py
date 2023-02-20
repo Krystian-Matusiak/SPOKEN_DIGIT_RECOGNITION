@@ -8,7 +8,7 @@ try:
     import matplotlib.pyplot as plt
     import seaborn as sb
 except:
-    print("Smth is wrong")
+    print("\n\nSomething is wrong\n\n")
 
 # ---------------------------------------------------------------------------------
 # Container for variables
