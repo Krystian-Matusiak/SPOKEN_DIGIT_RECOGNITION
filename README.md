@@ -891,7 +891,7 @@ utils.print_crosstab_seaborn(X_test, labels, model)
     <div class="jupyter-widgets widget-label" style="text-align: center;">
         Figure
     </div>
-    <img src=./jupyter_frequency_files/jupyter_frequency_15_1' width=1000.0/>
+    <img src="./jupyter_frequency_files/jupyter_frequency_15_1.png" width=1000.0/>
 </div>
 
 
